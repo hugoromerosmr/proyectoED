@@ -1,0 +1,266 @@
+#cabecera{
+    background-color: #1ea0a2;
+    padding: 4%;
+    
+    }
+    
+    #foto{
+    
+    width: 12%;
+    margin-left: 44%;
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    position: sticky;
+    margin-top: -6%;
+    }
+    #nombre{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    margin-top: 2%;
+    
+    
+    text-align: center;
+    }
+    #subnombre{
+       color: #1ea0a2;
+    
+        text-align: center;
+        }
+    
+        #linea{
+    
+    padding: 3px;
+    background-color: #34b7b9;
+    margin-left: 7%;
+    margin-right: 7%;
+        }
+    
+        #titulo{
+            padding:1%;
+            margin-left: 30%;
+            margin-right: 30%;
+            border-radius: 1rem;
+            background-color: #Ff7f50;
+            color: #1c1f1f;
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+    #caja1{
+    
+    margin-left: 18%;
+    margin-right: 20%;
+    text-align: center;
+    }
+    
+    #datospersonales{
+        
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+            background-color: #34b7b9 ;
+            border-radius: 1EM;
+                 
+     
+    
+    }
+    #titulodatos{
+        margin-top: 27%;
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+        
+    }
+    
+    #contenido1{
+        text-align: justify;
+        margin-left: 2%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    #formacion{
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+        margin-top: 2.5%;
+        
+        border-radius: 1EM;
+        background-color: #34b7b9        
+    
+    
+    }
+    
+    #titulodatos2{
+        margin-top: 18%;
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+    }
+    
+    #contenido2{
+        text-align: justify;
+        margin-left: 2%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    
+    #experiencia{
+        
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+        margin-top: -30.7%;
+        margin-left: 35%;
+        border-radius: 1EM;
+        background-color: #34b7b9        
+    
+    
+    }
+    
+    #titulodatos3{
+      
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+    }
+    
+    #contenido3{
+        text-align: justify;
+       margin-right: 1%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    #conocimiento{
+        
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+        margin-top: 5.6%;
+        margin-left: 35%;
+        border-radius: 1EM;
+        position: relative;
+        background-color: #34b7b9        
+    
+    
+    }
+    
+    #titulodatos4{
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+    }
+    
+    #contenido4{
+        text-align: justify;
+       margin-right: 1%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    #datosinteres{
+        
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+        margin-top: -101%;
+        margin-left: 125%;
+        border-radius: 1EM;
+        position: relative;
+        background-color: #34b7b9        
+    
+    
+    }
+    
+    #titulodatos5{
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+    }
+    
+    #contenido5{
+        text-align: justify;
+       margin-right: 1%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    #datoscontacto{
+        
+        width: 80%;
+        min-width: 100px;
+        max-width: 580px;
+        height:220px;
+        margin-top: 18%;
+        margin-left: 125%;
+        border-radius: 1EM;
+        position: relative;
+        background-color: #34b7b9        
+    
+    
+    }
+    
+    #titulodatos6{
+        text-align: center;
+        text-decoration: underline;
+        background-color:  #Ff7f50;
+    }
+    
+    #contenido6{
+        text-align: justify;
+       margin-right: 1%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       
+    }
+    
+    #tabla{
+      margin-top:100px;
+      width:400px;
+      height:200px;
+    }
+    #cabeceratabla{   
+      background-color:  #Ff7f50;
+    }
+    #relleno{ background-color:#34b7b9 }
+    .formulario {
+      
+        padding: 20px;
+        background: #fff;
+        margin-left: 30px;
+        text-align: center;
+        background-color:#34b7b9  ;  
+    }
+    form {
+        background: #f9f9f9;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin-top: 200px;
+        width: 1000px;
+        margin-left: -50%;
+        background-color: #Ff7f50;
+    }
+    .form-group {
+        margin: 10px 0;
+    }
+    label {
+        display: block;
+        font-weight: bold;
+    }
+    
+    
+    
+    button {
+        background: #333;
+        color: #fff;
+        border: none;
+        padding: 10px 15px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
